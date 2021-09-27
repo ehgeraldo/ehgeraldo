@@ -11,8 +11,8 @@
 ## Estatística no GitHub 📈:
 
 
-- 😊Thanks for visiting.
-- ✌Enjoy it!! o/
+- 😊 Thanks for visiting.
+- ✌  Enjoy it!! o/
 
 <!--
 **ehgeraldo/ehgeraldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
