@@ -11,7 +11,7 @@
 ## Estatística no GitHub 📈:
 
 
--😊 Thanks for visiting.
+- 😊 Thanks for visiting.
 -  ✌  Enjoy it!! o/
 
 <!--
