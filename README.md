@@ -1,5 +1,7 @@
 ### Hi there 👋, I'm Eduardo Geraldo.
 
+“I am passionate about technology, innovation and big challenging tasks on my to do list.”
+
 
 - 🌱 I’m currently learning WEBscraping
 - 📂 All of my projects are available at https://bit.ly/3zQm2Ku
