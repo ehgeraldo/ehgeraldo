@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Eduardo Geraldo.
+## Hi there 👋, I'm Eduardo Geraldo.
 
 
 “I am passionate about technology, innovation and big challenging tasks on my to do list.”
