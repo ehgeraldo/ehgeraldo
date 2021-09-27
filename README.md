@@ -2,7 +2,7 @@
 
 
 - 🌱 I’m currently learning WEBscraping
-- 📂 All if my projects are available at 
+- 📂 All if my projects are available at https://github.com/ehgeraldo?tab=repositories
 <!--
 **ehgeraldo/ehgeraldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
