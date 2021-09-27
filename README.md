@@ -11,7 +11,6 @@
 ## Estatística no GitHub 📈:
 [![ehgeraldo GitHub stats](https://github-readme-stats.vercel.app/api?username=ehgeraldo)](https://github.com/ehgeraldo/github-readme-stats)
 
-<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 
 
 - 😊 Thanks for visiting.
