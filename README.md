@@ -8,7 +8,7 @@
 - 📂 All of my projects are available at https://bit.ly/3zQm2Ku
 - 📫 How to reach me ehgeraldo@gmail.com
 
-##Estatística no GitHub 📈:
+## Estatística no GitHub 📈:
 
 <!--
 **ehgeraldo/ehgeraldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
