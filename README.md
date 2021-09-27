@@ -9,7 +9,7 @@
 - 📫 How to reach me ehgeraldo@gmail.com
 
 ## Estatística no GitHub 📈:
-[![ehgeraldo GitHub stats](https://github-readme-stats.vercel.app/api?username=NOMEGIT)](https://github.com/NOMEGIT/github-readme-stats)
+[![ehgeraldo GitHub stats](https://github-readme-stats.vercel.app/api?username=ehgeraldo)](https://github.com/NOMEGIT/github-readme-stats)
 
 
 - 😊 Thanks for visiting.
