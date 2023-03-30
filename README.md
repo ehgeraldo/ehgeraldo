@@ -4,7 +4,7 @@
 “I am passionate about technology, innovation and big challenging tasks on my to do list.”
 
 
-- 🌱 I’m currently learning WEBscraping
+- 🌱 I’m currently learning Machine Learning.
 - 📂 All of my projects are available at https://bit.ly/3zQm2Ku
 - 📫 How to reach me ehgeraldo@gmail.com
 
